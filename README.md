@@ -36,7 +36,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/your-username/anpr-project.git
+git clone https://github.com/shleshitha/ANPR.git
 cd anpr-project
 
 Create a virtual environment and activate it:
